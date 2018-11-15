@@ -8,7 +8,7 @@ demo的使用：
 
 **运行环境**
 
-> vs2015 运行库+quick-cocos2dx-community3.7+sublime+packagecontrol+quick-comminuty-dev
+> windows+[vs2015 运行库](http://8dx.pc6.com/xjq6/WeiRuanRunTimeTool_1028.zip)+[quick-cocos2dx-community3.7](https://pan.baidu.com/s/1PP253-frPSItlaQyaa2ZIw)+[sublime](https://download.sublimetext.com/Sublime%20Text%20Build%203176%20x64%20Setup.exe)+[packagecontrol](https://packagecontrol.io/installation)+[quick-comminuty-dev](https://github.com/iTyran/quick-comminuty-dev/archive/master.zip)
 
 **项目截图**
 
@@ -20,9 +20,7 @@ demo的使用：
 
 <img src='https://github.com/BrighterEyer/quick-cocos2dx-community/tree/master/demo/截图/运行截图02.gif' width="300" height="300" />
 
-```
 <img src='https://github.com/BrighterEyer/quick-cocos2dx-community/tree/master/demo/截图/运行截图03.gif' width="300" height="300" />
-```
 
 <img src='https://github.com/BrighterEyer/quick-cocos2dx-community/tree/master/demo/截图/运行截图04.gif' width="300" height="300" />
 

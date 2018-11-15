@@ -12,17 +12,17 @@ demo的使用：
 
 **项目截图**
 
-<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/tree/master/demo/截图/项目截图.png' width="300" height="300" />
+<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/blob/master/demo/%E6%88%AA%E5%9B%BE/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE.png?raw=true' width="300" height="300" />
 
 **运行截图**
 
-<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/tree/master/demo/截图/运行截图01.png' width="300" height="300" />
+<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/blob/master/demo/%E6%88%AA%E5%9B%BE/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE01.png?raw=true' width="300" height="300" />
 
-<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/tree/master/demo/截图/运行截图02.gif' width="300" height="300" />
+<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/blob/master/demo/%E6%88%AA%E5%9B%BE/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE02.gif?raw=true' width="300" height="300" />
 
-<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/tree/master/demo/截图/运行截图03.gif' width="300" height="300" />
+<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/blob/master/demo/%E6%88%AA%E5%9B%BE/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE03.gif?raw=true' width="300" height="300" />
 
-<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/tree/master/demo/截图/运行截图04.gif' width="300" height="300" />
+<img src='https://github.com/BrighterEyer/quick-cocos2dx-community/blob/master/demo/%E6%88%AA%E5%9B%BE/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE04.gif?raw=true' width="300" height="300" />
 
 **项目技术**
 
